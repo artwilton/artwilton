@@ -1,5 +1,5 @@
 ## Hi, I'm Arthur 👋
----
+
 **I'm a full stack developer with a background in media asset management.**
 
 
